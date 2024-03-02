@@ -1,0 +1,2 @@
+# hyprinstall
+btrfs-timeshft-hyprdots
