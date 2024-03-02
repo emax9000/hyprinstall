@@ -2,7 +2,7 @@
 
 This is a bash based Arch Linux installation script with EFI boot loader and btrfs partition prepared for Timeshift or snapper.
 
-[maim-region-20240302-133701](https://github.com/emax9000/hyprinstall/assets/74818949/52b94d49-565c-4cc0-a699-2f5d1693e0cb)
+![maim-region-20240302-133701](https://github.com/emax9000/hyprinstall/assets/74818949/c1585b2c-110b-4b12-a856-119cb9eaa7d8)
 
 
 Install Arch Linux YOUR WAY. Arch Linux Installation 2023
