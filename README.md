@@ -49,8 +49,8 @@ pacman -Syy
 pacman -S git
 
 # Clone Installation
-git clone https://gitlab.com/stephan-raabe/archinstall.git
-cd archinstall
+git clone https://github.com/emax9000/hyprinstall
+cd hyprinstall
 
 # Start the script
 ./1-install.sh
